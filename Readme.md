@@ -13,3 +13,9 @@ scrapy crawl chapter
 ```
 scrapy crawl video
 ```
+
+## 环境依赖
+
+- RabbitMQ
+- MySQL
+- chromedriver 解析JS
